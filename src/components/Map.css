@@ -1,0 +1,22 @@
+.map-geography:default {
+    fill: 'var(--darker-grey)';
+    stroke: '#333';
+    strokeWidth: 0.1;
+    outline: 'none';
+}
+
+.map-geography:hover {
+    fill: '#FF5733';
+    stroke: '#C70039';
+    strokeWidth: 0.1;
+    cursor: 'pointer';
+    outline: 'none';
+}
+
+.map-geography:pressed {
+    fill: '#19B5FE';
+    stroke: '#1F4788;';
+    strokeWidth: 0.1;;
+    cursor: 'pointer';
+    outline: 'none';
+}
